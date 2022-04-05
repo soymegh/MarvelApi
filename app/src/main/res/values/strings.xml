@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Marvel Api</string>
+    <string name="error_recoverable_network">No pudimos conectarnos a nuestro servidor. Por favor revise su conexion a internet %s</string>
+    <string name="error_recoverable_server">Parece que nuestros servidores están teniendo problemas. %s</string>
+    <string name="error_unrecoverable">Ups... ¡Algo salió mal!</string>
+    <string name="error_retry_text">\n\n¡Toca para volver a intentarlo!</string>
+    <string name="superhero_details_comics">Cómics disponibles: %d</string>
+    <string name="superhero_details_stories">Historias disponibles: %d</string>
+    <string name="superhero_details_events">Eventos disponibles: %d</string>
+    <string name="superhero_details_series">Serie disponible: %d</string>
+</resources>
